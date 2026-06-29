@@ -40,3 +40,26 @@ targets:
         SWIFT_VERSION: "5.0"
         GENERATE_INFOPLIST_FILE: NO
         CODE_SIGN_STYLE: Automatic
+
+  VoiceMemoTranscriberTests:
+    type: bundle.unit-test
+    platform: iOS
+    sources:
+      - Tests
+      - path: Sources/TranscribeService.swift
+    settings:
+      base:
+        PRODUCT_NAME: VoiceMemoTranscriberTests
+        PRODUCT_BUNDLE_IDENTIFIER: com.zubeid.voicememotranscriber.tests
+        GENERATE_INFOPLIST_FILE: YES
+        TARGETED_DEVICE_FAMILY: "1"
+        SWIFT_VERSION: "5.0"
+
+schemes:
+  Tests:
+    build:
+      targets:
+        VoiceMemoTranscriberTests: [test]
+    test:
+      targets:
+        - VoiceMemoTranscriberTests
