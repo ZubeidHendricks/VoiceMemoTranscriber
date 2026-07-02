@@ -1,0 +1,1 @@
+transcribe,voice to text,transcription,dictation,meeting notes,recorder,speech,lecture

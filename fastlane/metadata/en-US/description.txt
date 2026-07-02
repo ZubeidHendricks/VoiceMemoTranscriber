@@ -1,0 +1,21 @@
+Transcriber turns speech into text the moment you stop recording — no cloud, no waiting.
+
+RECORD ANYTHING
+• Meetings, lectures, interviews, voice notes
+• One-tap recording with live timer
+
+WORDS, INSTANTLY
+• On-device transcription via Apple's Speech engine
+• Copy the text with one tap
+• Export transcripts with Pro
+
+TRULY PRIVATE
+Audio and transcripts never leave your device — ideal for sensitive meetings and notes.
+SUBSCRIPTIONS
+Pro is an auto-renewing subscription (yearly or weekly). Payment is charged to your Apple ID at confirmation; it renews unless cancelled at least 24 hours before the period ends. Manage or cancel anytime in your Apple ID settings.
+
+PRIVACY FIRST
+Everything runs on your device — nothing is uploaded.
+
+Terms: https://zubeidhendricks.github.io/VoiceMemoTranscriber/terms.html
+Privacy: https://zubeidhendricks.github.io/VoiceMemoTranscriber/privacy.html
